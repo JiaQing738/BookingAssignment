@@ -8,6 +8,10 @@ This project is created for an assignment
 
 < Link to Backend Git >
 
+[Database Repository](https://github.com/JiaQing738/BookingDB)
+
+[Database Docker Image](https://hub.docker.com/repository/docker/qingzz/bookingdb)
+
 # Requirement
 The setup requires docker to be installed (Docker Desktop for Windows)
 
