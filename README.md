@@ -4,16 +4,21 @@ This project is created for an assignment
 
 # Links
 
-< Link to Frontend Git >
+[Frontend Repository](https://github.com/JiaQing738/BookingFrontend)
 
-< Link to Backend Git >
+[Backend Repository](https://github.com/JiaQing738/BookingBackend)
 
 [Database Repository](https://github.com/JiaQing738/BookingDB)
 
-[Database Docker Image](https://hub.docker.com/repository/docker/qingzz/bookingdb)
 
 # Requirement
 The setup requires docker to be installed (Docker Desktop for Windows)
+
+This setup requires internet access
+
+API will be hosted on http://localhost:8000
+
+Web Client will be hosted on http://localhost:3000
 
 # Setup
 ## Windows
